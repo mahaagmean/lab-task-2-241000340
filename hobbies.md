@@ -1,3 +1,3 @@
-I enjoy listening to music.
-I like watching movies.
-I enjoy spending time with my friends.
+I enjoy reading.
+I like listening to music.
+I love learning new skills.
