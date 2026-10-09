@@ -1,5 +1,2 @@
-# lab-task
-CSCI313 Lab 03
 Name:Maha Agmean
 Student ID:241000340
-
